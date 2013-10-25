@@ -18,7 +18,7 @@ Version: %{version}
 Release: %{release}
 Group: Applications
 Source: %{orgarch}.tar.gz
-License: GPL/LGPL
+License: GPL
 Vendor: NIPPON TELEGRAPH AND TELEPHONE CORPORATION
 BuildRoot: %{_tmppath}/%{name}-%{version}
 BuildRequires: autoconf, automake, pacemaker-libs-devel >= 1.0.9, heartbeat-devel >= 3.0.3, cluster-glue-libs-devel >= 1.0.6
