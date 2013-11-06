@@ -3,7 +3,7 @@
 ########################################
 %define __check_files %{nil}
 %define name pm_diskd
-%define version 1.2
+%define version 1.3
 %define release 1.el@RHEL_VER@
 %define prefix /usr
 %define libdir	%{_libdir}

@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.53])
-AC_INIT([pm_diskd], [1.2], BUG-REPORT-ADDRESS)
+AC_INIT([pm_diskd], [1.3], BUG-REPORT-ADDRESS)
 AM_INIT_AUTOMAKE
 
 # Checks for programs.
