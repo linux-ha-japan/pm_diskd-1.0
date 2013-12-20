@@ -26,12 +26,7 @@ Requires: pacemaker >= 1.0.9, resource-agents >= 1.0.3, cluster-glue >= 1.0.6, h
 
 ########################################
 %description
-pacemaker diskcheck service
- for pacemaker 1.0.9 
-           and 
-     resoucr-agent 1.0.3 
-           and 
-     cluster-glue 1.0.6
+pacemaker diskcheck service for pacemaker and resoucr-agent and cluster-glue.
 
 ########################################
 %prep
